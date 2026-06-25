@@ -40,3 +40,7 @@ graph TD
    ```
 
 O app ficará disponível acessando `http://localhost:5173`.
+
+## Teste para o meu amigo
+
+Olá! Esta é uma branch de teste criada. Por favor, faça suas alterações e mande as mudanças para a branch main!
